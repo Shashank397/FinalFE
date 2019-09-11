@@ -1,0 +1,11 @@
+.checkavailability_wrapper{
+
+}
+label {  width: 300px;  
+    text-align: left;
+     /* color:#d73421; */
+    text-transform: uppercase;
+    font-family: 'HelveticaNeue-Bold'!important;
+    font-size: 14px;
+    font-weight: bold; }
+
